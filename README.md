@@ -1,2 +1,0 @@
-# dw
-nxsh - download mirror
